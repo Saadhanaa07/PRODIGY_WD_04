@@ -16,6 +16,7 @@ Project highlights with descriptions
 Contact section with clickable email, LinkedIn, and GitHub
 
 💻 Technologies Used
+
 HTML5
 
 CSS3
@@ -26,6 +27,7 @@ Hosted on GitHub Pages
 
 🔗 Live Website
 https://saadhanaa07.github.io/PRODIGY_WD_04/
+
 🧠 What I Learned
 Structuring clean HTML for readability and accessibility
 
